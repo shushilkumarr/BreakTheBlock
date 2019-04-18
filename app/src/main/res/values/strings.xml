@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BreakTheBlock</string>
+    <string name="remove">remove</string>
+    <string name="Exit">EXIT</string>
+    <string name="finished">Congratulations.. You have Cleared all the blocks!!</string>
+    <string name="invalid_input">not a Valid input</string>
+</resources>
